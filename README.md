@@ -33,6 +33,6 @@ from day 1, i've been fascinated by the ability to "build things" with nothing b
 - vanilla javascript (really more like love/hate)
 - .NET anything 😅
 - 100% test coverage
-- taking everything seriously
+- taking everything seriously + mean people :(
 
 <!-- last updated 08.04.2025 -->
