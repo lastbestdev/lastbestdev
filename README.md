@@ -35,4 +35,7 @@ from day 1, i've been fascinated by the ability to "build things" with nothing b
 - 100% test coverage
 - taking everything seriously + mean people :(
 
-<!-- last updated 08.04.2025 -->
+### recommended reading
+The Grug Brained Developer - https://grugbrain.dev
+
+<!-- last updated 08.23.2025 -->
