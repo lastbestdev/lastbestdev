@@ -1,6 +1,6 @@
 ## hello 😃
 
-my name is Brad, and i live in Montana. (yes, it exists) ⛰️🤠
+my name is Brad, and i live in Montana. (yes, it [exists](https://en.wikipedia.org/wiki/The_Last_Best_Place)) ⛰️🤠
 
 ### quickly
 i wrote my first line of code in community college back in 2018, and fell in love instantly. our final class project was programming an [arduino sumo robot](https://www.pololu.com/product/2510) (sweet). i completed my 2 years there, and decided to take a year off.
