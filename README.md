@@ -31,7 +31,7 @@ from day 1, i've been fascinated by the ability to "build things" with nothing b
 **dislikes**
 - snow + cold + darkness (= winter)
 - vanilla javascript (really more like love/hate)
-- .NET anything 😅
+- Microsoftland
 - 100% test coverage
 - taking everything seriously + mean people :(
 
