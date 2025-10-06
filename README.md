@@ -7,9 +7,10 @@ i wrote my first line of code in community college back in 2018, and fell in lov
 
 during that time in-between cc and university, i remember driving to the local library to mooch wifi (my place didn't have any) and learn about web development. this was typically when i got off from my full time job, working 10 hour days in a warehouse ($10/hr btw). the library was always closed by then, so i'd just sit in the parking lot in my car and learn! 
 
-(yeah i'm forklift certified, nbd) 
+(yeah i'm forklift certified, nbd. used to pilot one of these bad boys around) 
 
-![yessir copy](https://github.com/user-attachments/assets/838804f4-ebd7-4e61-848f-d512fed38dde)
+![toyota_forklift](https://github.com/user-attachments/assets/969c75bb-0e95-4ce9-9a44-b40c9b632e64)
+
 
 ### the gist
 from day 1, i've been fascinated by the ability to "build things" with nothing but my brain, a laptop, and an internet connection (sometimes). that interest is every bit intact today!
