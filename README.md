@@ -1,42 +1,25 @@
-## hello 😃
-
+## lastbestdev
 my name is Brad, and i live in Montana. (yes, it [exists](https://en.wikipedia.org/wiki/The_Last_Best_Place)) ⛰️🤠
 
-### quickly
-i wrote my first line of code in community college back in 2018, and fell in love instantly. our final class project was programming an [arduino sumo robot](https://www.pololu.com/product/2510) (sweet). i completed my 2 years there, and decided to take a year off.
+### my skillset
+- fullstack development 🏗️👷🏻‍♂️
+- tech listed in order of most-least experience: **Javascript (React, vanilla), C# (.NET), HTML & CSS, Typescript, Python**
+- ai friendly developer. i enjoy using tools such as **Claude Code, Github Copilot, and Claude/OpenAI chat** to help me get things done faster
 
-during that time in-between cc and university, i remember driving to the local library to mooch wifi (my place didn't have any) and learn about web development. this was typically when i got off from my full time job, working 10 hour days in a warehouse ($10/hr btw). the library was always closed by then, so i'd just sit in the parking lot in my car and learn! 
+### now building
+learning how to develop a web app with Go and HTMX! (a simple sticky note application, source [here](https://github.com/lastbestdev/go-htmx-stickies))
 
-(yeah i'm forklift certified, nbd. used to pilot one of these bad boys around) 
+### about me
+started coding in 2018 at community college—programmed an arduino [zumo robot](https://www.pololu.com/category/169/zumo-robot-for-arduino) (sweet) and was completely hooked! went on to learn web dev from my car outside the library (thx [Odin Project](https://www.theodinproject.com)) between warehouse shifts before finishing my CS degree at the University of Montana in 2021.
 
-![toyota_forklift](https://github.com/user-attachments/assets/969c75bb-0e95-4ce9-9a44-b40c9b632e64)
+(yeah i'm forklift certified, nbd. used to pilot one of these bad boys around 😎) 
+
+<img src="https://github.com/user-attachments/assets/969c75bb-0e95-4ce9-9a44-b40c9b632e64" width=300 height=300>
+
+### contact
+you can reach me on the following:
+- email - brad.nerdgrizzly@gmail.com
+- linkedin - https://www.linkedin.com/in/bradleydeibert/
 
 
-### the gist
-from day 1, i've been fascinated by the ability to "build things" with nothing but my brain, a laptop, and an internet connection (sometimes). that interest is every bit intact today!
-
-.
-<br/> .
-<br/> .
-
-### has notes of
-
-**likes**
-- sun/summer
-- west side best side (MT, UT, CA)
-- meeting people! :)
-- cars 🐈 + doge 🐶
-- strongly typed languages
-- go fast + ship things
-
-**dislikes**
-- snow + cold + darkness (= winter)
-- vanilla javascript (really more like love/hate)
-- Microsoftland
-- 100% test coverage
-- taking everything seriously + mean people :(
-
-### recommended reading
-The Grug Brained Developer - https://grugbrain.dev
-
-<!-- last updated 08.23.2025 -->
+<!-- last updated 10.10.2025 -->
