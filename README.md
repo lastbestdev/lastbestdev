@@ -1,5 +1,5 @@
 ## lastbestdev
-my name is Brad, and i live in Montana. (yes, it [exists](https://en.wikipedia.org/wiki/The_Last_Best_Place)) ⛰️🤠
+my name is Brad, and i'm from Montana. (yes, it [exists](https://en.wikipedia.org/wiki/The_Last_Best_Place)) ⛰️🤠
 
 ### my skillset
 - fullstack engineer 🏗️👷🏻‍♂️ 
@@ -22,4 +22,4 @@ you can reach me on the following:
 - email - brad.nerdgrizzly@gmail.com
 - linkedin - https://www.linkedin.com/in/bradleydeibert/
 
-<!-- last updated 10.16.2025 -->
+<!-- last updated 12.01.2025 -->
